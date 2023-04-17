@@ -1,0 +1,4 @@
+.projects
+.classpath
+/node_modules
+*.class
